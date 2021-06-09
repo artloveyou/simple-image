@@ -1,5 +1,5 @@
 {
-    "name": "simonjarvis/simple-image",
+    "name": "artloveyou/simple-image",
     "description": "PHP class to re-size and scale images",
     "keywords": ["php", "image", "resize", "scale"],
     "type": "library",
